@@ -1,0 +1,2 @@
+1.in c,a string is constructed as a one-dimension array of characters.
+
